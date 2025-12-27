@@ -147,19 +147,7 @@ I specialize in delivering **end-to-end solutions**—from concept to deployment
 
 ---
 
-##  **GITHUB STATS**
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuziSan07&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9&ring_color=00f7f7)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuziSan07&theme=dark&hide_border=true&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuziSan07&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9)
-
-</div>
-
----
 
 ##  **CODED TO**
 
