@@ -119,7 +119,7 @@ systems_programming:
 ## **CURRENT MISSION**
 
 - Building **AI-powered automation tools** for production environments
-- Open to **internships** and **freelance opportunities**
+- Open to **jobs** and **freelance opportunities**
 - Exploring **MLOps** and **scalable ML infrastructure**
 - Deepening expertise in **system design** and **distributed systems**
 - Contributing to **open-source ML/DevOps projects**
